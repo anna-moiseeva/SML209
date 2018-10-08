@@ -11,7 +11,7 @@
 <ul>
   <li> Submit all the assessments by the proposed deadlines.</li>
   <li> Make a real impact to my role at QMBES soceity.</li>
-  <li> Find summer internship.</li>
+  <li> Find a summer internship.</li>
 </ul>
 <hr>
 <h2> Section 3: My interests</h2>
