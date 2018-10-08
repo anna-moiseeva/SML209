@@ -21,6 +21,5 @@
   <li>Spend time with my frends.</li>
   <li>Travel.</li>
 <ol>
-
 <hr>
   
