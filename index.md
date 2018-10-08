@@ -20,6 +20,6 @@
   <li>Listen to music.</li>
   <li>Spend time with my frends.</li>
   <li>Travel.</li>
-<ol>
+</ol>
 <hr>
   
