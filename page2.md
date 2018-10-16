@@ -13,6 +13,7 @@
   <dd> Perestroika ( Russian: Перестрoйка) was a political movement for reformation within the Communist Party of the Soviet Union during the 1980s and 1990s and is widely associated with Soviet leader Mikhail Gorbachev and his glasnost (meaning "openness") policy reform.</dd>
 </dl>  
 <hr>
+<h2> Famoud people in Russia</h2>
 <table>
   <tr> 
     <th>Name of the person</th><th>Activity</th><th>Famous contributions</th>
