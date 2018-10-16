@@ -23,6 +23,3 @@
 </ol>
 <hr>
   
-<h1> Map of Europe with flags</h1>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Map_of_Europe_with_flags.svg " alt="Map of Europe with countries' flags" >
-<hr>
