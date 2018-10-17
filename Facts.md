@@ -3,7 +3,8 @@
 <h1> Map of Russia </h1>
 <a href="https://upload.wikimedia.org/wikipedia/commons/e/e5/Russia_Flag-Map.svg"
 title="View Image Source">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Russia_Flag-Map.svg" alt="Image of Russian Flag Map">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Russia_Flag-Map.svg" 
+alt="Image of Russian Flag Map">
 </a>
 <hr>
 
