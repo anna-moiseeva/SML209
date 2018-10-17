@@ -1,7 +1,11 @@
 <h1>HTML Part 2 Homework. Today is 16<sup>th</sup>Ocotober </h1> 
 <h1>Welcome to Russia</h1>
 <h1> Map of Russia </h1>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Russia_Flag-Map.svg" alt="Map of Russian Federation" >
+<a href="https://upload.wikimedia.org/wikipedia/commons/9/94/Flag-map_of_Russia.svg"
+title="View Image Source">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Russia_Flag-Map.svg" alt="Map of Russian Federation"
+alt="Image of Russian Flag Map".>
+</a>
 <hr>
 
 <h2> Few Common words that everyone knows </h2>
