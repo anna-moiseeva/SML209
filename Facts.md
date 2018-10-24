@@ -1,10 +1,12 @@
 <h1>HTML Part 2 Homework. Today is 16<sup>th</sup>Ocotober </h1> 
 <h2>Welcome to Russia</h2>
 <h3> Map of Russia </h3>
+<p>
 <a href="https://upload.wikimedia.org/wikipedia/commons/e/e5/Russia_Flag-Map.svg"
 title="View Image Source">
-<img style="width:70%; border:1px solid red;" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Russia_Flag-Map.svg" alt="Image of Russian Flag Map">
+<img class="imgLeft" style="width:70%; vertical-align:top; border:1px solid red;" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Russia_Flag-Map.svg" alt="Image of Russian Flag Map">
 </a>
+   Russia is a country in Eurasia. At 17,125,200 square kilometres (6,612,100 sq mi), Russia is the largest country in the world by area, covering more than one-eighth of the Earth's inhabited land area,and the ninth most populous, with over 144 million people as of December 2017, excluding Crimea. About 77% of the population live in the western, European part of the country.</p>
 <hr>
 
 <h2> Few Common words that everyone knows </h2>
