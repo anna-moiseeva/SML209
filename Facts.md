@@ -4,7 +4,7 @@
 <p>
 <a href="https://upload.wikimedia.org/wikipedia/commons/e/e5/Russia_Flag-Map.svg"
 title="View Image Source">
-<img class="imgLeft" style="width:70%; vertical-align:top; border:1px solid red;" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Russia_Flag-Map.svg" alt="Image of Russian Flag Map">
+<img class="imgLeft"src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Russia_Flag-Map.svg" alt="Image of Russian Flag Map">
 </a>
   Russia is the largest country in the world by area, covering more than one-eighth of the Earth's inhabited land area and the 9<sup>th</sup> most populous, with over 144 million people as of December 2017, excluding Crimea. About 77% of the population live in the western, European part of the country.</p>
 <hr>
