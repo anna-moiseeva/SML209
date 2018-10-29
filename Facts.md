@@ -6,7 +6,7 @@
 title="View Image Source">
 <img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Russia_Flag-Map.svg" alt="Image of Russian Flag Map">
 </a>
-  Russia is the largest country in the world by area, covering more than one-eighth of the Earth's inhabited land area and the 9<sup>th</sup> most populous, with over 144 million people as of December 2017, excluding Crimea. About 77% of the population live in the western, European part of the country.</p>
+  Russia , officially the Russian Federation  is a country in Eurasia. Russia is the largest country in the world by area,  and the 9<sup>th</sup> most populous.  About 77% of the population live in the western, European part of the country. Russia's capital, Moscow, is the largest metropolitan area in Europe and one of the largest cities in the world; other major cities include Saint Petersburg, Novosibirsk, Yekaterinburg and Nizhny Novgorod. Extending across the entirety of Northern Asia and much of Eastern Europe, Russia spans eleven time zones and incorporates a wide range of environments and landforms.</p>
 <hr>
 
 <h2> Few Common words that everyone knows </h2>
