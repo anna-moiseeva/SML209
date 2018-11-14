@@ -1,4 +1,8 @@
 
+<p>
+<a style="float:right ;" href="[practice].html".Go to Exercise 1</a>
+</p>
+<div style="clear:both;"> </div>
 <h1> Explore Moscow - Russian Capital </h1>
   
   <iframe src="https://h5p.org/h5p/embed/356446" width="870" height="366" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
