@@ -1,11 +1,12 @@
 <h1>Welcome!<span lang="ru"> Добро пожаловать!</span> </h1>
 <p>This is my page for SML209</p>
-<hr>
-
-<h2>Section 1: About myself</h2>
-<p> Hello everyone! My name is Anna. My birthday is on 26 <sup>th</sup> June 1999. I am form Russia, butfor 3 years already I am living in England. Last year I moved to London to study French and Business Management degree at Queen Mary University of London.</p>
 <a href="https://hub.qmlus.qmul.ac.uk/view/view.php?profile=anna-moiseeva&page=sml209-computers-and-languages-2018-anna-moiseeva"> visit my QMUL Hub page</a>
 <hr>
+
+h2>Free online Russian lessons for beginners to help with their start in learning Russian!</h2>
+<p>Discover True Russia Today is a site for those who have decided to study Russian language on their own.</p>
+<hr>
+
 <h2> Section 2: My aims for this year</h2>
 <p>Here is my list of activities what I will need to do to make my 2nd year successful:</p>
 <ul>
