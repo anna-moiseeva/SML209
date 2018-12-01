@@ -1,4 +1,4 @@
-<h1><strong> Welcome!<span lang="ru"> Добро пожаловать!</span></strong> </h1>
+<h1> Welcome!<span lang="ru"> Добро пожаловать!</span></h1>
 <p> Hello! My name is Anna. I am from Russia, Volgograd. I moved to England three years ago. I am currently at my Second Year of undergraduate studies at Queen Mary University of London. This is my page for SML209</p>
 <a href="https://hub.qmlus.qmul.ac.uk/view/view.php?profile=anna-moiseeva&page=sml209-computers-and-languages-2018-anna-moiseeva"> visit my QMUL Hub page</a>
 <hr>
