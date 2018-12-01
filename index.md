@@ -1,5 +1,5 @@
 <h1>Welcome!</h1>
-<h1>lang="ru"> Добро пожаловать!</h1>
+<p lang="ru"> Добро пожаловать!</p>
 <p>This is my page for SML209</p>
 <hr>
 
