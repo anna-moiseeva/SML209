@@ -3,7 +3,7 @@
 <a href="https://hub.qmlus.qmul.ac.uk/view/view.php?profile=anna-moiseeva&page=sml209-computers-and-languages-2018-anna-moiseeva"> visit my QMUL Hub page</a>
 <hr>
 
-h2>Free online Russian lessons for beginners to help with their start in learning Russian!</h2>
+<h2>Free online Russian lessons for beginners to help with their start in learning Russian!</h2>
 <p>Discover True Russia Today is a site for those who have decided to study Russian language on their own.</p>
 <hr>
 
