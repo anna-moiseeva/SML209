@@ -12,22 +12,29 @@ Everyone will be able to commence discovering Russia through the introduction to
 <p>Explore Russia, as a whole country by viewing the presentations on:.</p>
 <ul>
   <li> Russian history</li>
-  <li> Russian </li>
-  <li> Russian</li>
+  <li> Russian the biggest cities and its main sights </li>
+  <li> Interesting facts abour Russia</li>
 </ul>
+<hr>
   <p> Explore The Rich Russian Culture by:</p>
   <ul>
-  <li>Dicover Famous Russians</li>
+  <li>Dicover Famous Russian People </li>
   <li>Listening to Russian songs</li> 
   <li>Have a try to cook some dishes from provided recipes of Russian Cuisine</li>
 </ul>
 <hr>
-<h2> Section 3: My interests</h2>
-<p> Here is a list of my favotite things:</p>
-<ol>
-  <li>Listen to music.</li>
-  <li>Spend time with my frends.</li>
-  <li>Travel.</li>
-</ol>
+<p> Explore and learn the essential vocablury:</p>
+<ul>
+  <li> Build your knoweldnge in Russian Alphabet</li>
+  <li> Learn the basics of vocablury on diffrent topics</li>
+  <li> Memorise what you learn by compelting the following exercises</li>
+  <hr>
+<p> Explore the most useful phrases which will help you to start the conversations with Russian speakers by completing various interactive quizes for each selected topic</p>
 <hr>
+<p> Find out other available resources for futher practice in learning Russian by clicking on the procided links</p>
+<hr>
+
+<p> P.S. Every Page have the additional interactive exercises that you may want to try to complete for  better memeorisation of the all given information.  
+<hr>
+<p>Good luck!<span lang="ru">Удачи!</span></p1>
   
