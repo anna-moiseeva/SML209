@@ -9,31 +9,29 @@ Everyone will be able to commence discovering Russia through the introduction to
 <hr>
 
 <h2><span style="color:#00008B">Everyone has all the opportunities for everyday's discoveries. Here the list what you would be able to do on this website:</span></h2>
-<p>Explore Russia, as a whole country by viewing the presentations on:.</p>
+<h3>Explore Russia, as a whole country by viewing the presentations on:.</h3>
 <ul>
   <li>The Russian history</li>
   <li>The biggest Russian cities and its main sights </li>
   <li> The Interesting facts abour Russia</li>
 </ul>
 <hr>
-  <p> Explore The Rich Russian Culture by:</p>
+  <h3>Explore The Rich Russian Culture by:</h3>
   <ul>
   <li>Dicovering Famous Russian People </li>
   <li>Listening to Russian songs</li> 
   <li>Having a try to cook some dishes from provided recipes of Russian Cuisine</li>
 </ul>
 <hr>
-<p> Explore and learn the essential vocablury.</p>
+<h3> Explore and learn the essential vocablury.</h3>
 <ul>
   <li> Build your knoweldnge in Russian Alphabet</li>
   <li> Learn the basics of vocablury on diffrent topics</li>
   <li> Memorise what you learn by compelting the following exercises</li>
-  <hr>
-<h2> 
+  <hr> 
   <p>Visit the "Useful phrases" which will help you to Explore the most useful phrases which will help you to start the conversations with Russian speakers by completing various interactive quizzes for each selected topic.</p>
 <p> Find out other available resources for futher practices to continue learn Russian by clicking on the provided links.</p> 
 <p>P.S. Every Page have additional interactive exercises. You may want to try to complete them to memorise the given information.</p>
-  </h2>
 <hr>
 <h2><span style="color:#00008B">Good luck!<span lang="ru"> Удачи!</span></span></h2>
   
