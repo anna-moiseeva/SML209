@@ -12,15 +12,15 @@ Everyone will be able to commence discovering Russia through the introduction to
 <p>Explore Russia, as a whole country by viewing the presentations on:.</p>
 <ul>
   <li> Russian history</li>
-  <li> Russian the biggest cities and its main sights </li>
-  <li> Interesting facts abour Russia</li>
+  <li>The biggest Russian cities and its main sights </li>
+  <li> The Interesting facts abour Russia</li>
 </ul>
 <hr>
   <p> Explore The Rich Russian Culture by:</p>
   <ul>
-  <li>Dicover Famous Russian People </li>
+  <li>Dicovering Famous Russian People </li>
   <li>Listening to Russian songs</li> 
-  <li>Have a try to cook some dishes from provided recipes of Russian Cuisine</li>
+  <li>Having a try to cook some dishes from provided recipes of Russian Cuisine</li>
 </ul>
 <hr>
 <p> Explore and learn the essential vocablury:</p>
