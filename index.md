@@ -2,7 +2,7 @@
 <p> Hello! My name is Anna. I am a Russian from Volgograd. I moved to England three years ago. I am currently in my Second Year of Undergraduate course at Queen Mary University of London. This is my page for SML209</p>
 <a href="https://hub.qmlus.qmul.ac.uk/view/view.php?profile=anna-moiseeva&page=sml209-computers-and-languages-2018-anna-moiseeva"> visit my QMUL Hub page</a>
 <hr>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Moscow_05-2012_StBasilCathedral.jpg" alt="Moscow St Basil Cathedral">
+<img style="width:70%; border:1px solid green;"src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Moscow_05-2012_StBasilCathedral.jpg" alt="Moscow St Basil Cathedral">
 
 <h2><span style="color:#00008B">Online lessons for beginners to help with their start in learning Russian!</span></h2>
 <p> <em>Discover True Russia Today</em> is a site for those who have decided to study Russian language on their own. 
