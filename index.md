@@ -2,14 +2,13 @@
 <p> Hello! My name is Anna. I am a Russian from Volgograd. I moved to England three years ago. I am currently in my Second Year of Undergraduate course at Queen Mary University of London. This is my page for SML209</p>
 <a href="https://hub.qmlus.qmul.ac.uk/view/view.php?profile=anna-moiseeva&page=sml209-computers-and-languages-2018-anna-moiseeva"> visit my QMUL Hub page</a>
 <hr>
-<img style="width:70%; border:1px solid green;margin-left:15%; "src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Moscow_05-2012_StBasilCathedral.jpg" alt="Moscow St Basil Cathedral">
 
 <h2><span style="color:#00008B">Online lessons for beginners to help with their start in learning Russian!</span></h2>
 <p> <em>Discover True Russia Today</em> is a site for those who have decided to study Russian language on their own. 
 Everyone will be able to commence discovering Russia through the introduction to the long historic and rich Russian culture. Learning about the Russian culture is an excellent way to start learning Russian and understand Russian-speaking people. This website  offers a possibility to study Russian vocabulary, pronunciation, grammar by completing the interactive words and phrases, local insights, and memory-building exercises which help you understand, apply, and practice what you learn.</p>
 <hr>
 
-<h2> <span style="color:#00008B>"Everyone has all the opportunities for everyday's discoveries. Here the list what you would be able to do on this website:</span></h2>
+<h2><span style="color:#00008B>"Everyone has all the opportunities for everyday's discoveries. Here the list what you would be able to do on this website:</span></h2>
 <p>Explore Russia, as a whole country by viewing the presentations on:.</p>
 <ul>
   <li>The Russian history</li>
