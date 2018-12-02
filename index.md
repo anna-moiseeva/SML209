@@ -34,5 +34,5 @@ Everyone will be able to commence discovering Russia through the introduction to
 <p>P.S. Every Page have additional interactive exercises. You may want to try to complete them to memorise the given information.</p>
   
 <hr>
-<p>Good luck!<span lang="ru"> Удачи!</span></p>
+<h2><span style="color:#00008B">Good luck!<span lang="ru"> Удачи!</span></span></h2>
   
