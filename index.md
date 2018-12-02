@@ -11,7 +11,7 @@ Everyone will be able to commence discovering Russia through the introduction to
 <h2>Everyone has all the opportunities for everyday's discoveries. Here the list what you would be able to do on this website:</h2>
 <p>Explore Russia, as a whole country by viewing the presentations on:.</p>
 <ul>
-  <li> Russian history</li>
+  <li>The Russian history</li>
   <li>The biggest Russian cities and its main sights </li>
   <li> The Interesting facts abour Russia</li>
 </ul>
@@ -23,18 +23,18 @@ Everyone will be able to commence discovering Russia through the introduction to
   <li>Having a try to cook some dishes from provided recipes of Russian Cuisine</li>
 </ul>
 <hr>
-<p> Explore and learn the essential vocablury:</p>
+<p> Explore and learn the essential vocablury.</p>
 <ul>
   <li> Build your knoweldnge in Russian Alphabet</li>
   <li> Learn the basics of vocablury on diffrent topics</li>
   <li> Memorise what you learn by compelting the following exercises</li>
   <hr>
-<p> Explore the most useful phrases which will help you to start the conversations with Russian speakers by completing various interactive quizes for each selected topic</p>
+<p> Explore the most useful phrases which will help you to start the conversations with Russian speakers by completing various interactive quizzes for each selected topic</p>
 <hr>
-<p> Find out other available resources for futher practice in learning Russian by clicking on the procided links</p>
+<p> Find out other available resources for futher practices to continue learn Russian by clicking on the provided links</p>
 <hr>
 
-<p> P.S. Every Page have the additional interactive exercises that you may want to try to complete for  better memeorisation of the all given information.  
+<p> P.S. Every Page have additional interactive exercises. You may want to try to complete them to memorise the given information.  
 <hr>
 <p>Good luck!<span lang="ru">Удачи!</span></p1>
   
