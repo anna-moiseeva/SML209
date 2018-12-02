@@ -29,9 +29,10 @@ Everyone will be able to commence discovering Russia through the introduction to
   <li> Learn the basics of vocablury on diffrent topics</li>
   <li> Memorise what you learn by compelting the following exercises</li>
   <hr>
-<h3> Explore the most useful phrases which will help you to start the conversations with Russian speakers by completing various interactive quizzes for each selected topic</h3>
-<p> Find out other available resources for futher practices to continue learn Russian by clicking on the provided links</p>
-<p> P.S. Every Page have additional interactive exercises. You may want to try to complete them to memorise the given information.  
+<p> Visit the "Useful phrases" which will help you to Explore the most useful phrases which will help you to start the conversations with Russian speakers by completing various interactive quizzes for each selected topic</p>
+<br>
+<p> Find out other available resources for futher practices to continue learn Russian by clicking on the provided links. P.S. Every Page have additional interactive exercises. You may want to try to complete them to memorise the given information</p>
+  
 <hr>
 <p>Good luck!<span lang="ru">Удачи!</span></p1>
   
