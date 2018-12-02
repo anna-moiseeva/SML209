@@ -17,9 +17,9 @@ Everyone will be able to commence discovering Russia through the introduction to
 </ul>
   <p> Explore The Rich Russian Culture by:</p>
   <ul>
+  <li>Dicover Famous Russians</li>
   <li>Listening to Russian songs</li> 
   <li>Have a try to cook some dishes from provided recipes of Russian Cuisine</li>
-  <li> Find a summer internship.</li>
 </ul>
 <hr>
 <h2> Section 3: My interests</h2>
