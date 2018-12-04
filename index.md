@@ -9,12 +9,13 @@ Everyone will be able to commence discovering Russia through the introduction to
 <hr>
 
 <h2><span style="color:#00008B">Everyone has all the opportunities for everyday's discoveries. Here the list what you would be able to do on this website:</span></h2>
-<h3>Explore Russia, as a whole country by viewing the presentations on:.</h3>
+<h3>Explore Russia, as a whole country by viewing the presentations on:</h3>
 <ul>
   <li>The Russian history</li>
   <li>The biggest Russian cities and its main sights </li>
   <li> The Interesting facts abour Russia</li>
 </ul>
+<a href="facts.html">Start learning facts about Russia</a>
 <hr>
   <h3>Explore The Rich Russian Culture by:</h3>
   <ul>
