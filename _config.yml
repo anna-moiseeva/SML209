@@ -2,7 +2,8 @@ theme: jekyll-theme-cayman
 title: Discover True Russia Today
 description: Start to learn Russian - One Of The Most Spoken Languages In The World 
 github:
-  page2: Facts.html
-  page3: Grammar.html
-  page4: page4.html
-  page5: page5.html
+  page2: facts.html
+  page3: culture.html
+  page4: essential-vocabulary.html
+  page5: useful-phrases.html
+  page6: further-practice.html
