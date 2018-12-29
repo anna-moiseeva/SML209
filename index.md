@@ -33,7 +33,7 @@ Everyone will be able to commence discovering Russia through the introduction to
  </ul>
  <a href="facts.html" class="btn2">Start learning Essential Russian Vocabulary</a>
  <hr> 
- <p> <span style="color:#32CD32">Useful Phrases</span> will lead you to an exploration of the most common phrases which will help you to start the conversations with Russian speakers by completing various interactive quizzes for each selected topic.</p>
+ <p> <span style="color:#008000">Useful Phrases</span> will lead you to an exploration of the most common phrases which will help you to start the conversations with Russian speakers by completing various interactive quizzes for each selected topic.</p>
 <a href="facts.html" class="btn2">Visit Useful Phrases</a> 
   <hr>
 <p> Find out other available resources for futher practices to continue learn Russian by clicking on the provided links.</p> 
