@@ -10,7 +10,7 @@ Everyone will be able to commence discovering Russia through the introduction to
 <p>
 <a href="https://upload.wikimedia.org/wikipedia/commons/e/e5/Russia_Flag-Map.svg"
 title="View Image Source">
-<img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Russia_Flag-Map.svg" alt="Image of Russian Flag Map">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Russia_Flag-Map.svg" alt="Image of Russian Flag Map">
 </a>
 </p>
 <hr>
