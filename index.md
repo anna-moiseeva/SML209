@@ -3,7 +3,8 @@
 <a href="https://hub.qmlus.qmul.ac.uk/view/view.php?profile=anna-moiseeva&page=sml209-computers-and-languages-2018-anna-moiseeva"> visit my QMUL Hub page</a>
 <hr>
 <h2><span style="color:#00008B">Online lessons for beginners to help with their start in learning Russian!</span></h2>
-<p> <em>Discover True Russia Today</em> is a site for those who want to learn Russian through the introduction to the long historic and rich Russian culture. This website offers a possibility to study Russian vocabulary, pronunciation, grammar by completing the interactive words and phrases, local insights, and memory-building exercises which help you understand, apply, and practice what you learn.</p>
+<p> <em>Discover True Russia Today</em> is a site for those who want to learn Russian through the introduction to the long historic and rich Russian culture.</p>
+<p>This website offers a possibility to study Russian vocabulary, pronunciation, grammar by completing the interactive words and phrases, local insights, and memory-building exercises which help you understand, apply, and practice what you learn.</p>
 <hr>
 <h3>Welcome to Russia</h3>
 <p>
