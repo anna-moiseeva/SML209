@@ -43,7 +43,7 @@ title="View Image Source">
 <a href="facts.html" class="btn2">Visit Useful Phrases</a> 
   <hr>
 <p> Find out other available resources for futher practices to continue learn Russian by clicking on the provided links.</p> 
-<p>P.S. Every Page have additional interactive exercises. You may want try to complete them to memorise the given information.</p>
+<p> <span style="color:#00008B"><strong>P.S.</strong> </span> Every Page have additional interactive exercises. You may want try to complete them to memorise the given information.</p>
 <hr>
 <h2><span style="color:#00008B">Good luck!<span lang="ru"> Удачи!</span></span></h2>
   
