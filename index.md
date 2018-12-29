@@ -33,7 +33,8 @@ Everyone will be able to commence discovering Russia through the introduction to
   </ul>
   <a href="facts.html" class="btn2">Start learning Essential Russian Vocabulary</a>
   <hr> 
-  <p>Visit <a href="facts.html" class="btn2">Useful Phrases</a> which will help you to explore the most common phrases which will help you to start the conversations with Russian speakers by completing various interactive quizzes for each selected topic.</p>
+  <p>
+<a href="facts.html" class="btn2">Visit Useful Phrases</a> which will help you to explore the most common phrases which will help you to start the conversations with Russian speakers by completing various interactive quizzes for each selected topic.</p>
 <p> Find out other available resources for futher practices to continue learn Russian by clicking on the provided links.</p> 
 <p>P.S. Every Page have additional interactive exercises. You may want to try to complete them to memorise the given information.</p>
 <hr>
