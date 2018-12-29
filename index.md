@@ -42,8 +42,8 @@ title="View Image Source">
  <p> <span style="color:#228B22">Useful Phrases</span> will lead you to an exploration of the most common phrases which will help you to start the conversations with Russian speakers by completing various interactive quizzes for each selected topic.</p>
 <a href="facts.html" class="btn2">Visit Useful Phrases</a> 
   <hr>
-<h3> Find out other available resources for futher practices to continue learn Russian by clicking on the provided links.</h3> 
-<p> <span style="color:#00008B">P.S.</span> Every Page have additional interactive exercises. You may want try to complete them to memorise the given information.</p>
+<p> Find out other available resources for futher practices to continue learn Russian by clicking on the provided links.</p> 
+<p> P.S. Every Page have additional interactive exercises. You may want try to complete them to memorise the given information.</p>
 <hr>
 <h2><span style="color:#00008B">Good luck!<span lang="ru"> Удачи!</span></span></h2>
   
