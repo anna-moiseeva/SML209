@@ -23,7 +23,7 @@ Everyone will be able to commence discovering Russia through the introduction to
   <li>Listening to Russian songs</li> 
   <li>Having a try to cook some dishes from provided recipes of Russian Cuisine</li>
 </ul>
-<a href="facts.html" class="btn2">Start learning facts about Russia</a>
+<a href="facts.html" class="btn2">Start learning facts about Russian Culture</a>
 <hr>
 <h3> Explore and learn the essential vocablury.</h3>
 <ul>
@@ -31,7 +31,7 @@ Everyone will be able to commence discovering Russia through the introduction to
   <li> Learn the basics of vocablury on diffrent topics</li>
   <li> Memorise what you learn by compelting the following exercises</li>
   </ul>
-  <a href="facts.html" class="btn2">Start learning facts about Russia</a>
+  <a href="facts.html" class="btn2">Start learning Essential Russian Vocabulary</a>
   <hr> 
   <p>Visit the "Useful phrases" which will help you to Explore the most useful phrases which will help you to start the conversations with Russian speakers by completing various interactive quizzes for each selected topic.</p>
 <p> Find out other available resources for futher practices to continue learn Russian by clicking on the provided links.</p> 
