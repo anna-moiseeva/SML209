@@ -14,11 +14,6 @@ title="View Image Source">
 </a>
 </p>
 <hr>
-<h2><span style="color:#00008B">Online lessons for beginners to help with their start in learning Russian!</span></h2>
-<p> <em>Discover True Russia Today</em> is a site for those who have decided to study Russian language on their own. 
-Everyone will be able to commence discovering Russia through the introduction to the long historic and rich Russian culture. Learning about the Russian culture is an excellent way to start learning Russian and understand Russian-speaking people. This website  offers a possibility to study Russian vocabulary, pronunciation, grammar by completing the interactive words and phrases, local insights, and memory-building exercises which help you understand, apply, and practice what you learn.</p>
-<hr>
-
 <h2><span style="color:#00008B">Everyone has all the opportunities for everyday's discoveries. Here the list what you would be able to do on this website:</span></h2>
 <h3>Explore Russia, as a whole country by viewing the presentations on:</h3>
 <ul>
