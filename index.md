@@ -2,7 +2,15 @@
 <p> Hello! My name is Anna. I am a Russian from Volgograd. I moved to England three years ago. I am currently in my Second Year of Undergraduate course at Queen Mary University of London. This is my page for SML209</p>
 <a href="https://hub.qmlus.qmul.ac.uk/view/view.php?profile=anna-moiseeva&page=sml209-computers-and-languages-2018-anna-moiseeva"> visit my QMUL Hub page</a>
 <hr>
-<iframe src="https://www.google.com/maps/d/embed?mid=13V7BevKi2M2P2aZcdKc42p-HSf-c4iCN" width="640" height="480"></iframe>
+<h2>Welcome to Russia</h2>
+<h3> Map of Russia </h3>
+<p>
+<a href="https://upload.wikimedia.org/wikipedia/commons/e/e5/Russia_Flag-Map.svg"
+title="View Image Source">
+<img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Russia_Flag-Map.svg" alt="Image of Russian Flag Map">
+</a>
+  Russia , officially the Russian Federation  is a country in Eurasia. Russia is the largest country in the world by area,  and the 9<sup>th</sup> most populous.  About 77% of the population live in the western, European part of the country. Russia's capital, Moscow, is the largest metropolitan area in Europe and one of the largest cities in the world; other major cities include Saint Petersburg, Novosibirsk, Yekaterinburg and Nizhny Novgorod. Extending across the entirety of Northern Asia and much of Eastern Europe, Russia spans eleven time zones and incorporates a wide range of environments and landforms.</p>
+<hr>
 <h2><span style="color:#00008B">Online lessons for beginners to help with their start in learning Russian!</span></h2>
 <p> <em>Discover True Russia Today</em> is a site for those who have decided to study Russian language on their own. 
 Everyone will be able to commence discovering Russia through the introduction to the long historic and rich Russian culture. Learning about the Russian culture is an excellent way to start learning Russian and understand Russian-speaking people. This website  offers a possibility to study Russian vocabulary, pronunciation, grammar by completing the interactive words and phrases, local insights, and memory-building exercises which help you understand, apply, and practice what you learn.</p>
