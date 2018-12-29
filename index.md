@@ -3,7 +3,6 @@
 <a href="https://hub.qmlus.qmul.ac.uk/view/view.php?profile=anna-moiseeva&page=sml209-computers-and-languages-2018-anna-moiseeva"> visit my QMUL Hub page</a>
 <hr>
 <h2>Welcome to Russia</h2>
-<h3> Map of Russia </h3>
 <p>
 <a href="https://upload.wikimedia.org/wikipedia/commons/e/e5/Russia_Flag-Map.svg"
 title="View Image Source">
