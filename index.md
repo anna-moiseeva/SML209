@@ -29,7 +29,7 @@ title="View Image Source">
   <li>Listening to Russian songs</li> 
   <li>Having a try to cook some dishes from provided recipes of Russian Cuisine</li>
 </ul>
-<a href="facts.html" class="btn2">Start learning facts about Russian Culture</a>
+<a href="culture.html" class="btn2">Start learning facts about Russian Culture</a>
 <hr>
 <h3> Explore and learn the essential vocablury.</h3>
 <ul>
@@ -37,10 +37,10 @@ title="View Image Source">
   <li> Learn the basics of vocablury on diffrent topics</li>
   <li> Memorise what you learn by compelting the following exercises</li>
  </ul>
- <a href="facts.html" class="btn2">Start learning Essential Russian Vocabulary</a>
+ <a href="essential-vocanulary.html" class="btn2">Start learning Essential Russian Vocabulary</a>
  <hr> 
  <p> <span style="color:#228B22">Useful Phrases</span> will lead you to an exploration of the most common phrases which will help you to start the conversations with Russian speakers by completing various interactive quizzes for each selected topic.</p>
-<a href="facts.html" class="btn2">Visit Useful Phrases</a> 
+<a href="useful-phrases.html" class="btn2">Visit Useful Phrases</a> 
   <hr>
 <p> Find out other available resources for futher practices to continue learn Russian by clicking on the provided links.</p> 
 <p> P.S. Every Page have additional interactive exercises. You may want try to complete them to memorise the given information.</p>
