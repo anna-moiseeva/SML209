@@ -3,6 +3,10 @@
 <iframe src="https://www.google.com/maps/d/embed?mid=13V7BevKi2M2P2aZcdKc42p-HSf-c4iCN" width="640" height="480"></iframe>
 <hr>
 <h3> Explore Moscow by competing the exercise </h3>
+<a href="https://commons.wikimedia.org/wiki/File:MSK_Collage_2015.png"
+title="View Image Source">
+<img src="https://commons.wikimedia.org/wiki/File:MSK_Collage_2015.png" alt="Image of Moscow ">
+</a>
 <p>
 <a style="float:right;" href="practice.html" class="btn2">Go to Exercise 1</a>
 </p>
