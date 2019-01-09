@@ -2,6 +2,12 @@
 <p> Russia, officially the Russian Federation, is a country in Eurasia. Russia is the largest country in the world by area,  and the 9<sup>th</sup> most populous. About 77% of the population live in the western, European part of the country. Russia's capital, Moscow, is the largest metropolitan area in Europe and one of the largest cities in the world; other major cities include Saint Petersburg, Novosibirsk, Yekaterinburg and Nizhny Novgorod.</p>
 <iframe src="https://www.google.com/maps/d/embed?mid=13V7BevKi2M2P2aZcdKc42p-HSf-c4iCN" width="640" height="480"></iframe>
 <hr>
+<h1> Explore Moscow by competing the exercise </h1>
+<p>
+<a style="float:right;" href="practice.html" class="btn2">Go to Exercise 1</a>
+</p>
+<div style="clear:both;"> </div>
+<hr>
 <h2> Few Common words that everyone knows </h2>
 <dl> 
   <dt>Matryoshka</dt>
@@ -11,33 +17,5 @@
   <dt> Perestroika </dt>
   <dd> Perestroika ( Russian: <span lang="ru">перестрoйка</span>) was a political movement for reformation within the Communist Party of the Soviet Union during the 1980s and 1990s and is widely associated with Soviet leader Mikhail Gorbachev and his glasnost (meaning "openness") policy reform.</dd>
 </dl>  
-<hr>
-<h2> Famous people in Russia</h2>
-<table>
-  <tr> 
-    <th>Name of the person</th><th>Activity</th><th>Famous contributions</th>
-  </tr>
-  <tr>
-    <td>Alexander Sergeyevich Pushkin</td>
-    <td>A poet, playwright, and novelist</td>
-    <td>Introduced the genre of romantic poetry and novel, ex. "Eugene Ongene"</td>
-  </tr>
-  <tr>
-    <td>Vladimir Vladimirovich Putin</td>
-    <td>Russian politician and The President of Russia</td>
-    <td>He served as Acting President of Russia due to the resignation of President Boris Yeltsin.During his second term as Prime Minister, he was the chairman of the ruling United Russia party, since 2018 he has been elected as the President again</td>
-  </tr>
-  <tr>
-    <td>Maria Yuryevna Sharapova</td>
-    <td>Professional tennis player</td>
-    <td>Sharapova has competed on the WTA tour since 2001. She has been ranked world No. 1 in singles by the WTA on five separate occasions, for a total of 21 weeks. She is one of ten women, and the only Russian, to hold the career Grand Slam. She is also an Olympic medalist, having won silver in women's singles at the 2012 Summer Olympics in London.</td>
-  </tr>
-  </table>
-<hr>
-<h1> Explore Russian Culture by completing exercises </h1>
-<p>
-<a style="float:right;" href="practice.html" class="btn2">Go to Exercise 1</a>
-</p>
-<div style="clear:both;"> </div>
 <hr>
 <p lang="ru">Добрый день! Меня зовут Анна, я живу в Лондоне.</p>
