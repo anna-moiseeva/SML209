@@ -8,12 +8,6 @@
 <hr>
 <iframe src="https://www.google.com/maps/d/embed?mid=13V7BevKi2M2P2aZcdKc42p-HSf-c4iCN" width="640" height="480"></iframe>
 <hr>
-<h3> Explore Moscow by competing the exercise </h3>
-<p>
-<a style="float:right;" href="practice.html" class="btn2">Go to Exercise 1</a>
-</p>
-<div style="clear:both;"> </div>
-<hr>
 <h2> Few Common words that everyone knows </h2>
 <dl> 
   <dt>Matryoshka</dt>
