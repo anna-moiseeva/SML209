@@ -37,7 +37,7 @@ title="View Image Source">
   <li> Learn the basics of vocablury on diffrent topics</li>
   <li> Memorise what you learn by compelting the following exercises</li>
  </ul>
- <a href="essential-vocanulary.html" class="btn2">Start learning Essential Russian Vocabulary</a>
+ <a href="essential-vocabulary.html" class="btn2">Start learning Essential Russian Vocabulary</a>
  <hr> 
  <p> <span style="color:#228B22">Useful Phrases</span> will lead you to an exploration of the most common phrases which will help you to start the conversations with Russian speakers by completing various interactive quizzes for each selected topic.</p>
 <a href="useful-phrases.html" class="btn2">Visit Useful Phrases</a> 
