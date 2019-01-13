@@ -5,7 +5,7 @@
 <h3> Explore Moscow by competing the exercise </h3>
 <a href="https://upload.wikimedia.org/wikipedia/commons/2/24/MSK_Collage_2015.png"
 title="View Image Source">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/24/MSK_Collage_2015.png" alt="Image of Moscow ">
+<img style="width:70%; border:1px solid green; margin-left:15%;"  src="https://upload.wikimedia.org/wikipedia/commons/2/24/MSK_Collage_2015.png" alt="Image of Moscow ">
 </a>
 <p>
 <a style="float:right;" href="practice.html" class="btn2">Go to Exercise 1</a>
