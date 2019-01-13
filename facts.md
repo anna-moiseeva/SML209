@@ -26,5 +26,5 @@ title="View Image Source">
   <h2> Why Russian?</h2> 
 <iframe src="https://h5p.org/h5p/embed/404116" width="1012" height="594" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script></p>
 <hr>
-<h2> Check what you have learnt so far</h2>
+<h2>Let's check your knowledge</h2>
 <iframe src="https://h5p.org/h5p/embed/406583" width="1012" height="287" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
