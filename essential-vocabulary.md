@@ -17,12 +17,6 @@ title="View Image Source">
 </a> 
 <h3> Follow the explanation by watching this video for a better understanding</h3>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/GAvFP19Lcz4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-<h3> Let's continue our learnign with numbers</h3>
-<p>The next step in learning Russian is to learn the Russian numbers. Once you learn the Russian numbers you will find it much easier doing things like shopping, or catching a train or tram. You will be able to understand when people give you the price of something. We will start with the numbers 1-10.</p>
-<a href="https://pen4pals.com/sites/default/files/styles/large_retina/public/images/russian-numbers.jpg?itok=UdtNc8tk"
-title="View Image Source">
-<img style="width:70%; border:1px solid green; margin-left:15%;"  src="https://pen4pals.com/sites/default/files/styles/large_retina/public/images/russian-numbers.jpg?itok=UdtNc8tk" alt="Image of Russian Numbers">
-</a> 
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/QJEUhJeGooQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<h2> Let's continue our learning</h3>
 <h3> Few more important aspects to begin conversation in Russian</h3>
 <iframe src="https://h5p.org/h5p/embed/406946" width="1090" height="638" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
