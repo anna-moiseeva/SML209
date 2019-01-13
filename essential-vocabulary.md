@@ -1,5 +1,3 @@
-<h1> Explore Russian Culture by completing exercises </h1>
-<p>
-<a style="float:right;" href="practice.html" class="btn2">Go to Exercise 1</a>
-</p>
-<div style="clear:both;"> </div>
+<h1>Discover Essential vocabulary what you will need to start the conversations in Russia</h1>
+<h2>Start form learning Russian alphabet</h2>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/GAvFP19Lcz4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
