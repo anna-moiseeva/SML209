@@ -2,7 +2,7 @@
 <p> Russia, officially the Russian Federation, is a country in Eurasia. Russia is the largest country in the world by area,  and the 9<sup>th</sup> most populous. About 77% of the population live in the western, European part of the country. Russia's capital, Moscow, is the largest metropolitan area in Europe and one of the largest cities in the world; other major cities include Saint Petersburg, Novosibirsk, Yekaterinburg and Nizhny Novgorod.</p>
 <iframe src="https://www.google.com/maps/d/embed?mid=13V7BevKi2M2P2aZcdKc42p-HSf-c4iCN" width="640" height="480"></iframe>
 <hr>
-<h3> Explore Moscow by competing the exercise </h3>
+<h2> Explore Moscow by competing the exercise </h2>
 <a href="https://upload.wikimedia.org/wikipedia/commons/2/24/MSK_Collage_2015.png"
 title="View Image Source">
 <img style="width:70%; border:1px solid green; margin-left:15%;"  src="https://upload.wikimedia.org/wikipedia/commons/2/24/MSK_Collage_2015.png" alt="Image of Moscow ">
