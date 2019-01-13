@@ -11,6 +11,6 @@ Your browser does not support the audio element.
 
 
 <p>
-  <a style="float:left;" href="page4.html" class="btn2"> Go back to Page 4</a>
+  <a style="float:left;" href="facts.html" class="btn2"> Go back to Facts </a>
   </p>
   <div style="clear:both;"> </div>
