@@ -1,5 +1,5 @@
 <h1>Welcome to Russia</h1>
-<p> Russia, officially the Russian Federation, is a country in Eurasia. Russia is the largest country in the world by area,  and the 9<sup>th</sup> most populous. About 77% of the population live in the western, European part of the country. Russia's capital, Moscow, is the largest metropolitan area in Europe and one of the largest cities in the world; other major cities include Saint Petersburg, Novosibirsk, Yekaterinburg and Nizhny Novgorod.</p>
+<p> Russia, officially the Russian Federation, is a country in Eurasia. Russia is the largest country in the world by area,  and the 9<sup>th</sup> most populous. About 77% of the population live in the western, European part of the country. Russia's capital, Moscow, is the largest metropolitan area in Europe and one of the largest cities in the world; other major cities include Saint Petersburg, Novosibirsk and Nizhny Novgorod.</p>
 <iframe src="https://www.google.com/maps/d/embed?mid=13V7BevKi2M2P2aZcdKc42p-HSf-c4iCN" width="640" height="480"></iframe>
 <hr>
 <h2> Explore Moscow by competing the exercise </h2>
