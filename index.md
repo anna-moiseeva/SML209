@@ -1,5 +1,5 @@
 <h1> <span style="color:#00008B">Welcome!<span lang="ru"> Добро пожаловать!</span></span></h1>
-<p> Hello! My name is Anna. I am a Russian from Volgograd. I moved to England three years ago. I am currently in my Second Year of Undergraduate course at Queen Mary University of London. This is my page for SML209</p>
+<p> Hello! My name is Anna. I am a Russian from Volgograd. I moved to England three years ago. I am currently in my Second Year of Undergraduate course at Queen Mary University of London.This is my page for SML209</p>
 <a href="https://hub.qmlus.qmul.ac.uk/view/view.php?profile=anna-moiseeva&page=sml209-computers-and-languages-2018-anna-moiseeva"> visit my QMUL Hub page</a>
 <hr>
 <h2><span style="color:#00008B">Online lessons for beginners to help with their start in learning Russian!</span></h2>
@@ -45,4 +45,5 @@ title="View Image Source">
   <p> P.S. Every Page have additional interactive exercises. You may want try to complete them to memorise the given information.</p>
 <hr>
 <h2><span style="color:#00008B">Good luck!<span lang="ru"> Удачи!</span></span></h2>
-  
+
+<p> This site was created by the student of Queen Mary University of London. Student ID number is 170142917.</p>
